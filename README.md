@@ -1,1 +1,2 @@
-# SeconExample
+# SecondExample
+--nice to learn
